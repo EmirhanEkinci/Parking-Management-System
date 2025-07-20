@@ -1,4 +1,4 @@
-# 🚗 Parking Management System
+#  Parking Management System
 
 A simple C++ based console application for managing a parking lot system. It supports both administrative and user functionalities including slot configuration, vehicle parking, billing, and report generation.
 
@@ -28,18 +28,18 @@ A simple C++ based console application for managing a parking lot system. It sup
   - Daily revenue report (`daily_report.txt`)
   - General parking status report (`parking_report.txt`)
 
-## 📦 Requirements
+## Requirements
 
 - C++ compiler supporting C++11 or newer
 
-## 🚀 How to Compile and Run
+##  How to Compile and Run
 
 ```bash
 g++ main.cpp mylibrary.cpp -o parking_app
 ./parking_app
 ```
 
-## 🧱 Data Structures
+##  Data Structures
 
 - `Slot` struct:
   ```cpp
